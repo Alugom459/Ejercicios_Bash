@@ -1,0 +1,14 @@
+/home/admin01/.config/Code/User/History/-4e47f482/jYC1.php
+/home/admin01/.config/Code/User/History/-7aba119b/mHt3.html
+/opt/lampp/htdocs/fotos/2.jpg
+/opt/lampp/htdocs/fotos/3.jpeg
+/opt/lampp/htdocs/fotos/1.png
+/opt/lampp/htdocs/ejercicios/ejercicio1/1.php
+/opt/lampp/htdocs/ejercicios/ejercicio1/1.html
+/opt/lampp/htdocs/ejercicios/ejercicio3/3.php
+/opt/lampp/htdocs/ejercicios/ejercicio5/5.php
+/opt/lampp/htdocs/ejercicios/ejercicio7/7.php
+/opt/lampp/htdocs/ejercicios/ejercicio8/8.php
+/opt/lampp/htdocs/ejercicios/ejercicio4/4.php
+/opt/lampp/htdocs/ejercicios/ejercicio2/2.php
+/opt/lampp/htdocs/ejercicios/ejercicio6/6.php
